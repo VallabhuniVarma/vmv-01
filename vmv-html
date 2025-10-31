@@ -34,7 +34,7 @@
 <section class="section-1">
   <div class="container-1">
     <div class="box-1">
-      <h2>Full Stack Development for Scalable & Modern Web Solutions</h2>
+      <h2> Java Full Stack Development for Scalable & Modern Web Solutions</h2>
 
    <div class="button">
      <button class="contactButton">Contact Me</button> <a href="Vallabhuni_MastanVarma.pdf" class="dowloadButton" download>Download CV</a>
@@ -73,7 +73,7 @@
       </div>
       <div class="boxcontainer-2-2">
       
-         <span class="containerbox-2-1">6.0+</span>
+         <span class="containerbox-2-1">0.6+</span>
    <br>
     <h4>experience</h4>
 
@@ -81,6 +81,7 @@
     </div>
   </div>
 </section>
+
 
 <section class="section-3">
   <div class="container-3">
@@ -122,7 +123,7 @@
 <div class="content-html">
   <h3>git</h3>
   <p class="paragraph-git">
-    hyper text markup language
+Global Information Tracker
   </p>
 </div>
         </div>
@@ -138,7 +139,7 @@
 <div class="content-html">
   <h3>github</h3>
   <p class="paragraph-github">
-    hyper text markup language
+    A cloud-based platform for hosting and managing Git repositories
   </p>
 </div>
         </div>
@@ -153,8 +154,7 @@
 <div class="content-html">
   <h3>javascript</h3>
   <p class="paragraph-javascript">
-    hyper text markup language
-  </p>
+A high-level, interpreted programming language used to create dynamic and interactive web pages.  </p>
 </div>
         </div>
 
@@ -169,7 +169,7 @@
   <h3>vscode</h3>
   <br>
   <p class="paragraph-javascript">
-    hyper text markup language
+   Visual Studio Code
   </p>
 </div>
         </div>
@@ -181,26 +181,65 @@
 </figure>
 
 <div class="content-html">
-  <h3>scc</h3>
+  <h3>css</h3>
   <p class="paragraph-javascript">
-    hyper text markup language
+Cascading Style Sheets  </p>
+</div>
+        </div>
+
+
+        <div class="java-flex">
+<figure class="image-java">
+  <img src="java.webp" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-java">
+  <h3>Java</h3>
+  <p class="paragraph-java">
+    A versatile, object-oriented programming language used for building web, mobile, and desktop applications. Known for its “Write Once, Run Anywhere” capability.
   </p>
 </div>
         </div>
 
 
+
       </div>
       </div>
-
-
-
     </div>
   </div>
- 
+  </div> 
+</section>
 
-      </div> 
-    </section>
+
+<section class="section-4">
+
+  <div class="container-4">
+    <div class="container-4-1">
+    <h1>What I'm Currently Working On</h1>
+    </div>
+<div class="container-4-2">
+
+  <div class="content-1">
+    <h3>Machine Learning (ML)</h3>
+<p>Exploring supervised and unsupervised learning algorithms, focusing on real-world implementations and optimization techniques.</p>
+  </div>
+
+
+  <div class="content-2">
+    <h3>Generative AI (GenAI)</h3>
+<p>Studying advanced generative models like GANs and Transformer-based architectures (e.g., GPT) for creative and practical applications.</p> 
+ </div>
+</div>
+
+  </div>
+
+
+
+</section>
  </main>
+ <footer>
+  <p>vallabhunimastan</p>
+ </footer>
  
 
     <script src="comback.js"></script>
