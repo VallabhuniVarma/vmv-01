@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="comback.css">
+</head>
+<body>
+    <header class="headerclass">
+<nav class="classnav">
+<div class="nameclass">
+  <h2>VMV</h2>
+</div>
+
+
+<div class="data">
+  <ul class="ulclass">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Education</a></li>
+    <li><a href="#">Careers</a></li>
+    <li><a href="#">Certifications</a></li>
+    <li><a href="#">Services</a></li>
+  </ul>
+</div>
+<div class="navbutton">
+  <button class="navbutton-1">contact Me</button>
+</div>
+</nav>
+    </header>
+
+
+    <main>
+<section class="section-1">
+  <div class="container-1">
+    <div class="box-1">
+      <h2>Full Stack Development for Scalable & Modern Web Solutions</h2>
+
+   <div class="button">
+     <button class="contactButton">Contact Me</button> <a href="Vallabhuni_MastanVarma.pdf" class="dowloadButton" download>Download CV</a>
+      <a href="https://www.linkedin.com/in/vallabhuni-mastan-varma-42670028a" class="linkdinButton" target="_blank">LinkedIn</a>
+      <a href="mailto:vallabhunimastan@gmail.com" class="GmailButton" target="_blank">
+    Gmail
+  </a>
+      </div> 
+    </div>
+
+
+    <div class="box-2">
+      <img src="manaphoto.JPG" alt="Vallabhuni Mastan Varma"><br>
+
+<div><b> VALLABHUNI MASTAN VARMA</b></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section-2">
+  <div class="container-2">
+
+<div class="container-2.1">
+    <div class="information-1">
+      <h4>
+        Welcome! I'm Vallabhuni mastan varma, a Java Full Stack Developer with a passion for building scalable and modern web applications. Combining technical proficiency with creative problem-solving, I turn your ideas into high-performing digital solutions that excel in functionality and design.</h4>
+    </div>
+</div>
+
+    <div class="container-2-2">
+      <div class="boxcontainer-2-1">
+    <span class="containerbox-1">10+</span>
+<br>
+    <h4>project done</h4>
+      </div>
+      <div class="boxcontainer-2-2">
+      
+         <span class="containerbox-2-1">6.0+</span>
+   <br>
+    <h4>experience</h4>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-3">
+  <div class="container-3">
+    <div class="container-3-1">
+    
+        <h3>Essential Tools I Use</h3>
+        <p>Discover the powerful tools and technologies I use to create exceptional, high-performing websites and applications.</p>
+     
+    </div>
+
+
+    <div class="container-3-2">
+
+   
+       <div class="grid">
+
+
+        <div class="html-flex">
+<figure class="image-html">
+  <img src="html.svg" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-html">
+  <h3>HTML</h3>
+  <p class="paragraph-html">
+    hyper text markup language
+  </p>
+</div>
+        </div>
+
+
+
+
+ <div class="git-flex">
+<figure class="image-git">
+  <img src="git.svg" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-html">
+  <h3>git</h3>
+  <p class="paragraph-git">
+    hyper text markup language
+  </p>
+</div>
+        </div>
+
+
+
+
+         <div class="github-flex">
+<figure class="image-github">
+  <img src="github.svg" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-html">
+  <h3>github</h3>
+  <p class="paragraph-github">
+    hyper text markup language
+  </p>
+</div>
+        </div>
+
+
+
+         <div class="javascript-flex">
+<figure class="image-javascript">
+  <img src="javascript.png" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-html">
+  <h3>javascript</h3>
+  <p class="paragraph-javascript">
+    hyper text markup language
+  </p>
+</div>
+        </div>
+
+
+
+          <div class="vscode-flex">
+<figure class="image-vscode">
+  <img src="vscode.svg" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-html">
+  <h3>vscode</h3>
+  <br>
+  <p class="paragraph-javascript">
+    hyper text markup language
+  </p>
+</div>
+        </div>
+<br>
+
+<div class="css-flex">
+<figure class="image-css">
+  <img src="css.svg" alt="data" width="70px" height="70px">
+</figure>
+
+<div class="content-html">
+  <h3>scc</h3>
+  <p class="paragraph-javascript">
+    hyper text markup language
+  </p>
+</div>
+        </div>
+
+
+      </div>
+      </div>
+
+
+
+    </div>
+  </div>
+ 
+
+      </div> 
+    </section>
+ </main>
+ 
+
+    <script src="comback.js"></script>
+</body>
+</html>
